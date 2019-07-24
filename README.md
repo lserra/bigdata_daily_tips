@@ -1,5 +1,5 @@
-# bigdata_daily_tips
-Big Data Daily Tips
+# Big Data Daily Tips
+---------------------
 
 Why did I write this?
 

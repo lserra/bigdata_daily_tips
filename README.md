@@ -1,5 +1,4 @@
 # Big Data Daily Tips
----------------------
 
 Why did I write this?
 

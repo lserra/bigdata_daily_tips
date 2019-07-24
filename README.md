@@ -2,7 +2,7 @@
 
 Why did I write this?
 
-Who are we?
+Who am I?
 
 How is this book organized?
 
